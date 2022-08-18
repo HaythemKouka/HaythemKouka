@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaythemKouka
+- 👋 Hi, I’m Haythem Kouka
 
 - 🌱 I’m currently learning System Dev.
 
