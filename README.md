@@ -13,7 +13,7 @@ I am a passionate fullstack developer and currently an engineering student. My m
 - **Development Environments:** STS (Spring Tool Suite), Eclipse, Android Studio, VS Code, Spyder
 - **System Administration:** Linux
 - **Other:** Android development, XAMPP, EasyPHP, Postman
-- 
+
 I am proficient in using Power AMC for database design and modeling. My experience includes:
 
 - Entity-Relationship Diagrams (ERD) design
