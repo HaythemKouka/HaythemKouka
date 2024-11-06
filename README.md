@@ -7,9 +7,9 @@ I am a passionate fullstack developer and currently an engineering student. My m
 ## Key Skills 🔧
 
 - **Frontend:** Angular, HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Spring Boot, Java, Symfony
+- **Backend:** Spring Boot, JSF, Symfony
 - **Databases:** PostgreSQL, MySQL, Oracle
-- **Languages:** PLSQL, Shell scripting, C, PHP, JSF, Python
+- **Languages:** PLSQL, Shell scripting, C, PHP, JAVA, Python
 - **Development Environments:** STS (Spring Tool Suite), Eclipse, Android Studio, VS Code, Spyder
 - **System Administration:** Linux
 - **Other:** Android development, XAMPP, EasyPHP, Postman
